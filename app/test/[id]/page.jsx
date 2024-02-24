@@ -1,3 +1,3 @@
 export default function Page({ params }) {
-    return <h1>Hello, {params.id}</h1>
+    return <h1>Helloeeeee, {params.id}</h1>
 }
